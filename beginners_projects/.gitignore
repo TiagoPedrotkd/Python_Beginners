@@ -1,0 +1,15 @@
+# Ambiente Virtual
+venv/
+
+# Arquivos de Cache
+__pycache__/
+*.py[cod]
+
+# Logs e Arquivos Temporários
+*.log
+*.tmp
+*.swp
+
+# Outros Diretórios e Arquivos
+.idea/
+.vscode/
